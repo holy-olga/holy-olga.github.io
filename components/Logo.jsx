@@ -19,7 +19,7 @@ export default function Logo({ useShaderToy }) {
                 </div>
             </div>
             <video loop muted autoPlay>
-                <source src="/mcrode.logo.webm" type="video/webm" />
+                <source src="/holy_olga_intro.webm" type="video/webm" />
             </video>
         </div>
     );
