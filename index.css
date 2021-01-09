@@ -5,6 +5,7 @@
     --anchor-offs: -200px;
     --main-menu-pos: sticky;
     --main-menu-flexdir: row;
+    --main-menu-template-column: auto auto auto;
     
     --emphasized-content-margin: 15px;
     --iframe-anti-margin: 6px;
@@ -32,6 +33,7 @@
         --app-width: 90vw;
         --main-menu-pos: relative;
         --main-menu-flexdir: column;
+        --main-menu-template-column: auto;
     }
 }
 
@@ -267,9 +269,10 @@ table {
     position: relative;
     top: 0px;
     left: 0px;
-    display: flex;
-    width: 100%;
+    display: grid;
+    grid-template-columns: var(--main-menu-template-column);
     flex-direction: var(--main-menu-flexdir);
+    width: 100%;
     justify-content: space-between;
 }
 
