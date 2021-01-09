@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router';
 
 export function IsCurrentDomain(urlin) {
-    return urlin.includes('localhost') || urlin.includes('mcro.de')
+    return urlin.includes('localhost') || urlin.includes('nyulga.com')
 }
 
 export function GetLocalPathFromUrl(urlin) {

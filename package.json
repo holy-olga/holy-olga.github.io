@@ -1,13 +1,13 @@
 {
-  "name": "mcrode4",
-  "description": "4th iteration of mcro.de",
-  "author": "David Morasz <_@mcro.de>",
+  "name": "holyolga_web",
+  "description": "Olga's website",
+  "author": "Olga Kocsi <kocsi.olga@gmail.com>",
   "license": "Private use, no reuse allowed",
   "private": "true",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microdee/microdee.github.io.git"
+    "url": "git+https://github.com/holy-olga/holy-olga.github.io.git"
   },
   "bugs": {
     "url": "https://github.com/rafrex/react-github-pages/issues"
