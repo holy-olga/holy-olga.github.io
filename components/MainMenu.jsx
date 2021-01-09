@@ -9,16 +9,22 @@ export default class MainMenu extends React.Component {
             </div>
             <div className="flexing">
                 <Gh2 onlyhover glitchtype="1" className="menuItem">
-                    <Link to="/c/log">log</Link>
+                    <Link to="/c/log">Art Projects</Link>
                 </Gh2>
                 <Gh2 onlyhover glitchtype="1" className="menuItem">
-                    <Link to="/c/works">works</Link>
+                    <Link to="/c/works">Exhibitions</Link>
                 </Gh2>
                 <Gh2 onlyhover glitchtype="1" className="menuItem">
-                    <Link to="/c/ware">software</Link>
+                    <Link to="/c/ware">Festivals</Link>
                 </Gh2>
                 <Gh2 onlyhover glitchtype="1" className="menuItem">
-                    <Link to="/c/about">about</Link>
+                    <Link to="/c/ware">Issues</Link>
+                </Gh2>
+                <Gh2 onlyhover glitchtype="1" className="menuItem">
+                    <Link to="/c/ware">Applied Works</Link>
+                </Gh2>
+                <Gh2 onlyhover glitchtype="1" className="menuItem">
+                    <Link to="/c/about">About</Link>
                 </Gh2>
             </div>
         </div> )
