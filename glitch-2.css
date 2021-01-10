@@ -6,10 +6,12 @@
     left: 0;
     right: 0;
     overflow: hidden;
-    background: #000;
-    clip: rect(0, 900px, 0, 0);
+    width: fit-content;
+    /* background: #000;
+    clip: rect(0, 900px, 0, 0); */
 }
 
+/*
 .glitch-2 .before,
 .glitch-2-hover:hover .before {
     left: 3px;
@@ -155,3 +157,4 @@
         clip: rect(58px, 9999px, 80px, 0);
     }
 }
+*/

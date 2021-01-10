@@ -121,26 +121,27 @@ p code {
 h1, h2, h3, h4 {
     font-style: normal;
     font-weight: normal;
+    margin-block-end: 1.06em;
 }
-h1, .h0 {
+.h0 {
     font-family: 'Iceberg', sans-serif;
+    font-size: 96px;
+}
+h1 {
+    font-family: 'Titillium Web', sans-serif;
     font-size: 64px;
 }
 h2 {
-    font-family: 'Kelly Slab', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 36px;
 }
 h3 {
-    font-family: 'Quantico', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 27px;
 }
 h4 {
-    font-family: 'Quantico', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 20px;
-}
-
-.h0 {
-    font-size: 96px;
 }
 
 table {
@@ -279,8 +280,30 @@ table {
 #mainMenu .menuItem {
     padding-top: 0px;
     padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
+    background-color: #fff;
+    color: black;
+    transition: transform 0.35s;
+    mix-blend-mode: lighten;
+}
+#mainMenu .menuItem a {   
+    border-bottom: none;
+}
+#mainMenu .menuItem.after {
+    background-color: #f0f;
+    mix-blend-mode: normal;
+}
+#mainMenu .menuItem.before {
+    background-color: #0f0;
+}
+.glitch-2-hover:hover .menuItem.after {
+    transform: translate(10px);
+}
+.glitch-2-hover:hover .menuItem.before {
+    transform: translate(20px);
 }
 
 #footer {
