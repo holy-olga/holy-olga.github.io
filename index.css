@@ -278,6 +278,7 @@ table {
 }
 
 #mainMenu .menuItem {
+    font-weight: 600;
     padding-top: 0px;
     padding-bottom: 0px;
     padding-left: 10px;
@@ -286,7 +287,7 @@ table {
     margin-bottom: 0px;
     background-color: #fff;
     color: black;
-    transition: transform 0.35s;
+    transition: transform 0.3s;
     mix-blend-mode: lighten;
 }
 #mainMenu .menuItem a {   
@@ -300,10 +301,10 @@ table {
     background-color: #0f0;
 }
 .glitch-2-hover:hover .menuItem.after {
-    transform: translate(10px);
+    transform: translate(10px) skewX(-5deg);
 }
 .glitch-2-hover:hover .menuItem.before {
-    transform: translate(20px);
+    transform: translate(20px) skewX(-10deg);
 }
 
 #footer {
