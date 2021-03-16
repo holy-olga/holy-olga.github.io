@@ -14,7 +14,7 @@
 | 2011 | **Willem de Kooning Academy** | ***Audio Visual department***,<br>Rotterdam
 | 2008-2011 | **Moholy Nagy Art and Design University** | ***Media design, BA degree***,<br>Budapest |
 
-### Scholarships, memberships
+### Scholarships, grants
 
 |   |   |
 | - | - |
@@ -26,19 +26,33 @@
 | 2013 | Rector's award,  best diploma at MOME  |
 | 2013 | ESSL ART AWARD CEE, nominee |
 | 2012 | Hungarian Republic scholarship |
-| 2012 | FKSE Studio of Young Artists’ Foundation, membership |
 | 2011 | Erasmus scholarship, Rotterdam |
+
+### Memberships
+|   |   |
+| - | - |
+| 2015 -2016| President of Doctoral Student Council at MOME |
+| 2015 -2016| Doctoral Student member of Seant of MOME |
+| 2012 | FKSE Studio of Young Artists’ Foundation, membership |
+| 2010 -2013| Student Union at MOME |
+| 2010 -2013| Student member at Senat of MOME|
+
+
 
 ### Workshops
 
 | | |
 |-|-|
+| 2020 | Capazine Let's Eat at Capa Center **Budapest** |
 | 2020 | Live Coding Camp, Zipernowsky Stúdió, **Budapest** |
 | 2019 | MAGNUM PHOTO, CAPA központ, **Budapest** |
 |  | KÖZKEMP, **Erdőbénye** |
 |  | Chaos Communication Camp, Numberwang village, pancake participant, **Berlin** |
 |  | FUTURE TALENT  online tutoring with **PhotoIrland** with Ángel Luis González |
+| 2018 | Capazine Let's Play at Capa Center **Budapest** |
 | 2015 | MOME BÓJA **Tihany** |
+| 2012 | Island CQ 2012 **Latvia** |
+| 2012 | Museum pedagogy workshop with Leonardo program **Lisbon** |
 | 2011 | Mezőszemere Art camp with Imre Bukta, **Mezőszemere** |
 
 ### In public collection
@@ -51,8 +65,10 @@
 
 | | |
 |-|-|
-| 2015-2017 | Moving image Artist Teacher, KISKÉPZŐ Secondary School of Visual Arts  **Budapest** |
+| 2019 | Lecturer for students at Medgyessy Ferenc High School **Debrecen** |
+| 2015-2017 | Moving image Artist Teacher, KISKÉPZŐ Secondary School of Visual Arts  **Budapest** | 
 | 2016 | Time and Concrete workshop at MOME curse week with Péter István Varga **Budapest** |
+| 2016 | Lecturer at  Flying art course **Debrecen** |
 | 2015-2016 | Cogitani math and art workshop for kids with Luca Szegletes, **Budaörs** |
 | 2015 | Internship as Art Teacher at Mihály Fazekas High School, **Budapest** |
 | 2014 | Internship as Art Teacher at KISKÉPZŐ Secondary School of Visual Arts **Budapest** |
@@ -61,8 +77,10 @@
 ## [Artist Teacher Portfolio here](https://issuu.com/heldin/docs/kocsi_olga_portfolio_tanar_kicsi_ma)
 <br>
 
-## [Appearances in Press](/c/press)
+## [Appearances in Press here](/c/press)
 <!-- <nextmd href="/c/press"> -->
+
+
 
 <br>
 
