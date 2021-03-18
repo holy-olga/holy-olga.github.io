@@ -35,16 +35,16 @@ export class Gh1 extends React.Component {
 
         return (
             <div {...idattr} className={`glitch-${props.glitchtype}${hoverSuffix}`} style={{ position: "relative"}}>
-                <h1 {...hprops} style={{...props.style, ...GhOrigStyle}}>
+                <h1 {...hprops} className={`${props.className} before`}>
+                    {props.children}
+                </h1>
+                <h1 {...hprops} className={`${props.className} after`}>
                     {props.children}
                 </h1>
                 <h1 {...hprops} style={{...props.style, ...GhMiddleStyle}}>
                     {props.children}
                 </h1>
-                <h1 {...hprops} className={`${props.className} before`}>
-                    {props.children}
-                </h1>
-                <h1 {...hprops} className={`${props.className} after`}>
+                <h1 {...hprops} style={{...props.style, ...GhOrigStyle}}>
                     {props.children}
                 </h1>
             </div>
@@ -77,16 +77,16 @@ export class Gh2 extends React.Component {
 
         return (
             <div {...idattr} className={`glitch-${props.glitchtype}${hoverSuffix}`} style={{ position: "relative"}}>
-                <h2 {...hprops} style={{...props.style, ...GhOrigStyle}}>
+                <h2 {...hprops} className={`${props.className} before`}>
+                    {props.children}
+                </h2>
+                <h2 {...hprops} className={`${props.className} after`}>
                     {props.children}
                 </h2>
                 <h2 {...hprops} style={{...props.style, ...GhMiddleStyle}}>
                     {props.children}
                 </h2>
-                <h2 {...hprops} className={`${props.className} before`}>
-                    {props.children}
-                </h2>
-                <h2 {...hprops} className={`${props.className} after`}>
+                <h2 {...hprops} style={{...props.style, ...GhOrigStyle}}>
                     {props.children}
                 </h2>
             </div>
