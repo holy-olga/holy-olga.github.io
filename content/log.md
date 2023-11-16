@@ -1,1 +1,0 @@
-<nextmd href="/c/log/change-resolution-script" />
